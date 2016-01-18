@@ -53,7 +53,7 @@ module Slack
           def connected?
             !@connected.nil?
           end
-          
+
           protected
 
           class Actor
